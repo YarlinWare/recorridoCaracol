@@ -1,7 +1,6 @@
-# Restaurante
-## Proyecto Final PAV-G81
+# Ejercicio Caracol en Python
+## Ejercicio 1: Modelos de Programación II G.020-81
 
-#### Ejercicio Caracol en Python
 ##### Descripción
 
 Ejercicio de matriz generada en orden de caracol.
